@@ -163,4 +163,4 @@ elif page == "Program Statistics":
 
 # Footer Information in Sidebar
 st.sidebar.title("About")
-st.sidebar.info("This application i built by kapeesh-kaul displays information about a hypothetical Data Science Program at the University of Regina, including available courses and program statistics.")
+st.sidebar.info("This application is built by kapeesh-kaul displays information about a hypothetical Data Science Program at the University of Regina, including available courses and program statistics.")
